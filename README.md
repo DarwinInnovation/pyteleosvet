@@ -7,7 +7,7 @@ the [peewee](http://docs.peewee-orm.com/en/latest/) Python ORM library, which gr
 
 ## Notes
 
-**This software is provided completely without guarantee or warranty and no responsibility is taken for its use.**
+**This software is provided completely without guarantee or warranty, and no responsibility is taken for its use.**
 
 It is recommended that if you do want to use the library, you set-up new database users with *limited access*. Ideally,
 if you are just writing queries you should use a *read-only* user.
