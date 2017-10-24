@@ -1,0 +1,19 @@
+{
+  "teleos": {
+    "start": "2017-02-23T00:00:00",
+    "mysql": {
+      "host": "192.168.3.52",
+      "user": "readonly",
+      "password": "$Read!Only$",
+      "database": "televet"
+    }
+  },
+  "dvc": {
+    "mysql": {
+      "host": "192.168.3.54",
+      "user": "readonly",
+      "password": "$Read!Only$",
+      "database": "dvc"
+    }
+  }
+}
