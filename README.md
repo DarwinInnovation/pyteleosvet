@@ -22,7 +22,7 @@ The package is available using pip:
 pip install pyteleosvet
 ```
 
-Then you will need to create a `teleos.json` file with your database tails in. A template file is provided.
+Then you will need to create a `teleos.json` file with your database details in. A template file is provided.
 
 ## Sample scripts
 
